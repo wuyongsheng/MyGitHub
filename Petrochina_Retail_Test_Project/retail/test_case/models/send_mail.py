@@ -9,13 +9,18 @@ from email.mime.text import MIMEText
 from email.header import Header
 
 #   邮件发送接口
-class send_mail_init_info(object):
+class send_mail(object):
     '''
     邮件配置信息
     '''
-    def __init__(self, receiver, subject='Retail 系统测试报告', server='smtp.qq.com',
-                 fromuser='281754043@qq.com', frompassword='gifhhsbgqyovbhhc',
+    def __init__(self,
+                 receiver,
+                 subject='Retail 系统测试报告',
+                 server='smtp.qq.com',
+                 fromuser='281754043@qq.com',
+                 frompassword='gifhhsbgqyovbhhc',
                  sender='281754043@qq.com'):
+
         self._server = server
         self._fromuser = fromuser
         self._frompassword = frompassword
@@ -49,7 +54,7 @@ class send_mail_init_info(object):
         smtp.quit()
 
 #   从文件中读取邮件接收人信息
-def read_SendToUserinfo_file(filename):
+def get_receiverinfo(filename):
     '''
     :param filename: 读取接收邮件人信息
     :return: 接收邮件人信息
@@ -61,6 +66,6 @@ def read_SendToUserinfo_file(filename):
         return msg
 
 if __name__ == '__main__':
-    read_msg=read_SendToUserinfo_file(r'D:\Petrochina_Retail_Test_Project\retail\data\mail_receiver.txt')
-    sendmail = send_mail_init_info(read_msg, 'smtp.qq.com', '281754043@qq.com', 'gifhhsbgqyovbhhc', '281754043@qq.com')
+    read_msg=get_receiverinfo(r'D:\Petrochina_Retail_Test_Project\retail\data\mail_receiver.txt')
+    sendmail = send_mail(read_msg, 'smtp.qq.com', '281754043@qq.com', 'gifhhsbgqyovbhhc', '281754043@qq.com')
     sendmail.send_email(r'D:\Petrochina_Retail_Test_Project\retail\report\report2018-08-15 08_38_45.html')

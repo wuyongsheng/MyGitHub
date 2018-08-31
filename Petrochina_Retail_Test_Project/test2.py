@@ -16,7 +16,7 @@ import time
 driver = webdriver.Firefox()
 driver.get('https://www.haixinglian.com/member/login.html')
 time.sleep(2)
-
+#
 locator = (By.XPATH,"//*[@class='col-lg-4 header-right']/span[2]/a")
 def find_element_re(*loc):
     try:
@@ -25,8 +25,12 @@ def find_element_re(*loc):
     except:
         print('not found element')
         print('页面找不到元素 %s' % (loc))
-
-ele = find_element_re(*locator)
-print(ele.text)
-ele.click()
+#
+# ele = find_element_re(*locator)
+# print(ele.text)
+# ele.click()
+# menu_list = [(By.LINK_TEXT, '权限管理'), (By.LINK_TEXT, '会员档案'), (By.LINK_TEXT, '积分消费查询'), (By.LINK_TEXT, '功能演示'),
+#              (By.LINK_TEXT, '待办工作'), (By.LINK_TEXT, '报表'), (By.LINK_TEXT, '积分规则/活动查询'), (By.LINK_TEXT, '积分规则/活动申请')]
+#
+# print(menu_list[0][1])
 

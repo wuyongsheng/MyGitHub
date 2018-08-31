@@ -49,9 +49,9 @@ if __name__ =='__main__':
     # suite_test_case.load_modify_test_cases('test_modify_password_all_blank') # testcase 10: 修改密码 所有密码都为空
     # suite_test_case.load_modify_test_cases('test_modify_password') # testcase 11: 循环测试密码修改功能
     #   memeber record query ui check
-    #suite_test_case.load_member_test_cases('test_member_check_ui') # testcase 12: 校验会员档案查询页面元素
-    #suite_test_case.load_member_test_cases('test_member_type') # testcase 13: 验证会员类型下拉列表
-    #suite_test_case.load_member_test_cases('test_member_level') # testcase 14: 验证会员级别下拉列表
+    # suite_test_case.load_member_test_cases('test_member_check_ui') # testcase 12: 校验会员档案查询页面元素
+    suite_test_case.load_member_test_cases('test_member_type') # testcase 13: 验证会员类型下拉列表
+    # suite_test_case.load_member_test_cases('test_member_level') # testcase 14: 验证会员级别下拉列表
     #suite_test_case.load_member_test_cases('test_member_query_failed') # testcase 15: 验证默认查询
     #suite_test_case.load_member_test_cases('test_alone_query_1') # testcase 16: 单一查询(会员编号，会员姓名，手机号码)
     #suite_test_case.load_member_test_cases('test_alone_query_2') # testcase 17: 单一查询(会员类型）
@@ -60,12 +60,12 @@ if __name__ =='__main__':
 
     #   point consume query
     #suite_test_case.load_point_consume_test_cases('test_point_query_page_check') # testcase 20: 页面检查
-    suite_test_case.load_point_consume_test_cases('test_point_required_field') # testcase 21: 必填项校验
+    #suite_test_case.load_point_consume_test_cases('test_point_required_field') # testcase 21: 必填项校验
     # runner, fp, filename = Test_Report()
     # runner.run(suite_test_case.suite)
     # fp.close()
-    # read_msg=read_SendToUserinfo_file(r'D:\Petrochina_Retail_Test_Project\retail\data\mail_receiver.txt')
-    # sendmail = send_mail_init_info(read_msg, 'smtp.qq.com', '281754043@qq.com', 'gifhhsbgqyovbhhc', '281754043@qq.com')
+    # read_msg=get_receiverinfo(r'D:\Petrochina_Retail_Test_Project\retail\data\mail_receiver.txt')
+    # sendmail = send_mail(read_msg, 'smtp.qq.com', '281754043@qq.com', 'gifhhsbgqyovbhhc', '281754043@qq.com')
     # sendmail.send_email(filename)
     runner = unittest.TextTestRunner(verbosity=2)# 输出详细信息
     runner.run(suite_test_case.suite)

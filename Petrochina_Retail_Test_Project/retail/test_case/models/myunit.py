@@ -8,19 +8,20 @@
 from .driver import Web_Driver
 import unittest
 import time
-
+from retail.test_case.page_obj.login_page import Login_Page
+from retail.test_case.page_obj.login_page import Base_Page
 
 class Myunittest(unittest.TestCase):
 
     def setUp(self):
         self.driver = Web_Driver().firefox_driver()
         self.driver.maximize_window()
-        Web_Driver().load_url(self.driver, 'http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp')
-        time.sleep(5)
+        self.login = Login_Page(self.driver)
+        self.login.open()
 
     def tearDown(self):
-        #self.driver.quit()
-        pass
+        self.driver.quit()
+        #pass
 
 if __name__ == '__main__':
     unittest.main()

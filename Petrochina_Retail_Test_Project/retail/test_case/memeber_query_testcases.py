@@ -18,30 +18,26 @@ class Member_Record_Query_Test_Cases(Myunittest):
 
     # ............................................................................................#
     # testcase 12: 页面检查
-    @unittest.skip('dont run the test case')
+    #@unittest.skip('dont run the test case')
     def test_member_check_ui(self):
         menu = Member_Record_Query_Page(self.driver) # 实例化会员查询页面
-        Login_function_public(self.driver)  # 登录
-        time.sleep(5)
+        self.login.login_function()
         menu.function_menu()  # 查找会员档案查询菜单
         for element in range(len(menu.Ui_element_list)):
-            flag = Is_Element_Exist(self.driver, menu.Ui_element_list[element])
+            flag = menu.Isnot_element_exist(*menu.Ui_element_list[element])
             self.assertTrue(flag)  # 断言存在这3个列表 [查询条件 ,会员信息明细 ,积分变化明细]
 
      # ............................................................................................#
     # testcase 13: 会员类型下拉列表校验
     def test_member_type(self):
         menu = Member_Record_Query_Page(self.driver)  # 实例化会员查询页面
-        Login_function_public(self.driver)  # 登录
-        time.sleep(5)
+        self.login.login_function()# 登录
         menu.function_menu()  # 查找会员档案查询菜单
-        menu.find_ele_by_id('_pagef_0000000043formMembeType_unieap_input').click()  # 查询条件:[会员类型]
-        time.sleep(3)
+        menu.click_member_type()
         list_type = []
-        for i in range(1, 4):  # 循环遍历会员类型下拉列表
-            text, memeber_type_level = menu.find_member_type_level(i)
+        for member_type in menu.member_type_num:  # 循环遍历会员类型下拉列表
+            text, memeber_type_level = menu.find_member_type_level(*member_type)
             list_type.append(text)
-        # print(list_type)
         self.assertEqual('个人会员', list_type[0])
         self.assertEqual('企业会员', list_type[1])
         self.assertEqual('其它', list_type[2])
@@ -57,7 +53,8 @@ class Member_Record_Query_Test_Cases(Myunittest):
         time.sleep(3)
         list_level = []
         for i in range(1, 5): # 循环遍历会员级别下拉列表
-            text, memeber_type_level = menu.find_member_type_level(i)
+            text, memeber_type_level = menu.find_member_type_level('//*[@class="u-combobox-items-container"]'
+                                                                  '/table/tbody/tr[' + str(i) + ']/td/span')
             list_level.append(text)
         #print(list_level)
         self.assertEqual('标准会员', list_level[0])

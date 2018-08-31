@@ -7,30 +7,51 @@
 # ----------------------------------
 from retail.test_case.page_obj.primary_page import Primary_Menu
 import time
+from selenium.webdriver.common.by import By
 
 class Member_Record_Query_Page(Primary_Menu):
 
-    # 会员查询页面的3个列表
-    Ui_element_list = ['/html/body/section/section/section/section[2]/section/section/div/div[1]/div[1]/span[1]',
-                       r'/html/body/section/section/section/section[2]/section/section/div/div[3]/div[1]/span[1]',
-                       r'/html/body/section/section/section/section[2]/section/section/div/div[3]/div[1]/span[1]']
+    """会员查询页面的3个列表(查询条件，会员信息明细，积分变化明细)"""
+    Ui_element_list = \
+        [(By.XPATH, '/html/body/section/section/section/section[2]/section/section/div/div[1]/div[1]/span[1]'),
+         (By.XPATH, '/html/body/section/section/section/section[2]/section/section/div/div[3]/div[1]/span[1]'),
+         (By.XPATH, '/html/body/section/section/section/section[2]/section/section/div/div[3]/div[1]/span[1]')]
+
+    """会员类型"""
+    member_type_btn = \
+        (By.ID, '_pagef_0000000043formMembeType_unieap_input')
+    """个人会员.企业会员.其他"""
+    member_type_num = \
+        [(By.XPATH, '//*[@class="u-combobox-items-container"]/table/tbody/tr[1]/td/span'),
+         (By.XPATH, '//*[@class="u-combobox-items-container"]/table/tbody/tr[2]/td/span'),
+         (By.XPATH, '//*[@class="u-combobox-items-container"]/table/tbody/tr[3]/td/span')]
 
     query_failed_error_list = '/html/body/div[5]/div[1]'  # 查询失败弹出的错误提示框
 
     values_list = ['#', '123', '汉字']
     member_list = ['MemberNo', 'MemberName', 'PhoneNumber']  # 3个查询条件框元素
+
     member_type = ['个人会员','企业会员','其它']
     member_level = ['标准会员','黄金会员','铂金会员','钻石会员']
 
+    """会员档案下拉菜单"""
+    member_menu = \
+        (By.LINK_TEXT, '会员档案查询')
+
+    # 点击会员类型
+    def click_member_type(self):
+        self.find_element_re(*self.member_type_btn).click()
+        self.driver.implicitly_wait(2)
+
     # 重写父类 方法 查找菜单
     def function_menu(self):
-        self.find_menu_element(self.menu_list[1]).click()
-        self.find_menu_element('会员档案查询').click()
+        self.find_element_re(*self.menu_list[1]).click()
+        self.find_element_re(*self.member_menu).click()
         time.sleep(4)
 
     # 会员类型/会员级别选择
-    def find_member_type_level(self, xpath):
-        member_type_level = self.driver.find_element_by_xpath(xpath)
+    def find_member_type_level(self, *xpath_list):
+        member_type_level = self.find_element_re(*xpath_list)
         text = member_type_level.text
         return text, member_type_level
 

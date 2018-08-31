@@ -26,14 +26,10 @@ class Web_Driver(object):
         self.driver = webdriver.Ie()
         return self.driver
 
-    # load url
-    def load_url(self, driver, url=''):
-        driver.get(url)
+    """modify by me at 2018.08.29,using open() of base page instead it"""
+    # # load url
+    # def load_url(self, driver, url=''):
+    #     driver.get(url)
 
 if __name__ == '__main__':
-    driver = Web_Driver()
-    web_driver = driver.firefox_driver()
-    driver.load_url(web_driver,'http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp')
-    time.sleep(5)
-    web_driver.quit()
-
+    pass
