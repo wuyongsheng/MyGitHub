@@ -1,0 +1,123 @@
+1538121084156	geckodriver	INFO	geckodriver 0.19.1
+1538121084170	geckodriver	INFO	Listening on 127.0.0.1:59154
+1538121087311	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\v-xug\\AppData\\Local\\Temp\\rust_mozprofile.F6XwP0sgUYyP"
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+1538121092203	Marionette	INFO	Listening on port 59165
+1538121092891	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://11.11.164.134:9081/rmms/modules/ep.ria/resources/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://11.11.164.134:9081/rmms/modules/ep.ria/resources/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://11.11.164.134:9081/rmms/modules/ep.ria/resources/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: http://11.11.164.134:9081/rmms/modules/ep.ria/resources/dojo/dojo.js, line 1: TypeError: node is null
+[Child 14248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538121635508	geckodriver	INFO	geckodriver 0.19.1
+1538121635523	geckodriver	INFO	Listening on 127.0.0.1:60022
+1538121638732	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\v-xug\\AppData\\Local\\Temp\\rust_mozprofile.8BohouFvEYOA"
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+1538121643398	Marionette	INFO	Listening on port 60033
+1538121644165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://11.11.164.134:9081/rmms/modules/ep.ria/resources/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://11.11.164.134:9081/rmms/modules/ep.ria/resources/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://11.11.164.134:9081/rmms/modules/ep.ria/resources/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: http://11.11.164.134:9081/rmms/modules/ep.ria/resources/dojo/dojo.js, line 1: TypeError: node is null
+1538124197408	geckodriver	INFO	geckodriver 0.19.1
+1538124197421	geckodriver	INFO	Listening on 127.0.0.1:63831
+1538124200541	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\v-xug\\AppData\\Local\\Temp\\rust_mozprofile.CKdAwiDaWOiQ"
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+1538124205088	Marionette	INFO	Listening on port 63842
+1538124205949	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2964, Chrome_ChildThr1538124269793	geckodriver	INFO	geckodriver 0.19.1
+1538124269808	geckodriver	INFO	Listening on 127.0.0.1:63955
+1538124273028	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\v-xug\\AppData\\Local\\Temp\\rust_mozprofile.v19eRHoBldhw"
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+1538124277829	Marionette	INFO	Listening on port 63967
+1538124278631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://11.11.164.134:9081/rmms/modules/ep.ria/resources/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://11.11.164.134:9081/rmms/modules/ep.ria/resources/dojo/dojo.js, line 2: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: http://11.11.164.134:9081/rmms/modules/ep.ria/resources/dojo/dojo.js, line 1: TypeError: node is null
+[Parent 14176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538196851464	geckodriver	INFO	geckodriver 0.19.1
+1538196851506	geckodriver	INFO	Listening on 127.0.0.1:58070
+1538196855070	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\v-xug\\AppData\\Local\\Temp\\rust_mozprofile.JDjmkwPLkKRt"
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+1538196871484	Marionette	INFO	Listening on port 58081
+1538196872667	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/driver.js :: GeckoDriver.prototype.maximizeWindow/windowSizeChange/< :: line 3029"  data: no]
+GeckoDriver.prototype.maximizeWindow/windowSizeChange/<@chrome://marionette/content/driver.js:3029:9
+evalFn@chrome://marionette/content/sync.js:97:7
+
+[Parent 17696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/buil[Parent 17696, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 17696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1538197031665	geckodriver	INFO	geckodriver 0.19.1
+1538197031679	geckodriver	INFO	Listening on 127.0.0.1:58417
+1538197034714	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\v-xug\\AppData\\Local\\Temp\\rust_mozprofile.r02RxkaZCIyi"
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\v-xug\AppData\Local\openvr\openvrpaths.vrpath
+1538197043834	Marionette	INFO	Listening on port 58427
+1538197044069	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/TelemetryFeed.jsm :: uninit :: line 493"  data: no] Stack trace: uninit()@resource://activity-stream/lib/TelemetryFeed.jsm:493
+onAction()@resource://activity-stream/lib/TelemetryFeed.jsm:451
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:51
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:166
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:318
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:79
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:187
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:2757
+observe()@resource://gre/modules/addons/XPIProvider.jsm:1672
+JavaScript error: resource:///modules/SavantShieldStudy.jsm, line 171: TypeError: this.addonListener is undefined
+[Parent 14728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10608, Chrome[Parent 14728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5620, Chrome_ChildThread] WARJavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  AbortError
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  AbortError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  AbortError
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 14872, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

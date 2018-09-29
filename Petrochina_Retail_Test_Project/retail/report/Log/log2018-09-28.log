@@ -1,0 +1,660 @@
+2018-09-28 15:51:23,859 - doconfIni.py:[36] - [INFO] - read excel value [D:\Petrochina_Retail_Test_Project] successed! 
+2018-09-28 15:51:23,962 - testreport.py:[36] - [INFO] - successed to generate test report [D:\Petrochina_Retail_Test_Project\retail\report\TestReport\report2018-09-28 15_51_23.html]
+2018-09-28 15:51:24,061 - doexcel.py:[31] - [INFO] - initing class ReadExcel
+2018-09-28 15:51:24,073 - doexcel.py:[31] - [INFO] - initing class ReadExcel
+2018-09-28 15:51:24,083 - doexcel.py:[31] - [INFO] - initing class ReadExcel
+2018-09-28 15:51:24,096 - doexcel.py:[31] - [INFO] - initing class ReadExcel
+2018-09-28 15:51:24,096 - doexcel.py:[46] - [INFO] - reading value [权限管理] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,097 - doexcel.py:[46] - [INFO] - reading value [会员档案] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,097 - doexcel.py:[46] - [INFO] - reading value [积分消费查询] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,097 - doexcel.py:[46] - [INFO] - reading value [功能演示] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,097 - doexcel.py:[46] - [INFO] - reading value [待办工作] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,097 - doexcel.py:[46] - [INFO] - reading value [报表] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,098 - doexcel.py:[46] - [INFO] - reading value [积分规则/活动查询] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,098 - doexcel.py:[46] - [INFO] - reading value [积分规则/活动申请] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,098 - doexcel.py:[46] - [INFO] - reading value [username] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,098 - doexcel.py:[46] - [INFO] - reading value [password] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,098 - doexcel.py:[46] - [INFO] - reading value [loginSubmitButton] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,098 - doexcel.py:[46] - [INFO] - reading value [checkcookie] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,098 - doexcel.py:[46] - [INFO] - reading value [inputTdRight] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,098 - doexcel.py:[46] - [INFO] - reading value [logout] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,098 - doexcel.py:[46] - [INFO] - reading value [rmln] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,098 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,098 - doexcel.py:[46] - [INFO] - reading value [rmlv] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,098 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,099 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,099 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,099 - doexcel.py:[46] - [INFO] - reading value [rml] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,099 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,099 - doexcel.py:[46] - [INFO] - reading value [rmln] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,099 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,099 - doexcel.py:[46] - [INFO] - reading value [rmln] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,099 - doexcel.py:[46] - [INFO] - reading value [quert1234] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,099 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:24,099 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 15:51:33,105 - driver.py:[27] - [INFO] - fireFoxDriver:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="283c19d6-e84c-4604-b793-d34e8f299737")>] successed !
+2018-09-28 15:51:36,627 - myunit.py:[26] - [INFO] - opened the browser successed!
+2018-09-28 15:51:37,180 - base_page.py:[57] - [INFO] - _open is accessing address http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp at line[46]
+2018-09-28 15:51:37,180 - base_page.py:[66] - [INFO] - http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp loading successed!
+2018-09-28 15:51:37,180 - myunit.py:[36] - [INFO] - ************************starting run test cases************************
+2018-09-28 15:51:37,232 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'username')
+2018-09-28 15:51:37,282 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rmln]
+2018-09-28 15:51:39,330 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'password')
+2018-09-28 15:51:39,403 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value [qwert1234!@#]
+2018-09-28 15:51:41,426 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 15:51:42,381 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 15:51:44,422 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'logout')
+2018-09-28 15:51:44,675 - login_page.py:[95] - [INFO] - quit
+2018-09-28 15:51:44,729 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'username')
+2018-09-28 15:51:44,774 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rmlv]
+2018-09-28 15:51:46,800 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'password')
+2018-09-28 15:51:46,854 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value [qwert1234!@#]
+2018-09-28 15:51:48,909 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 15:51:49,104 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 15:51:51,145 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'inputTdRight')
+2018-09-28 15:51:51,177 - login_page.py:[53] - [INFO] - login failed : 输入的用户名或密码错误，请重新输入!
+2018-09-28 15:51:51,202 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'username')
+2018-09-28 15:51:51,237 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value []
+2018-09-28 15:51:53,279 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'password')
+2018-09-28 15:51:53,341 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value [qwert1234!@#]
+2018-09-28 15:51:55,403 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 15:51:55,471 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 15:51:57,527 - login_page.py:[70] - [INFO] - login failed ,handleAlert handle alert successed alert info: 请填写用户名!
+2018-09-28 15:51:57,561 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'username')
+2018-09-28 15:51:57,610 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rml]
+2018-09-28 15:51:59,659 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'password')
+2018-09-28 15:51:59,734 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value [qwert1234!@]
+2018-09-28 15:52:01,779 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 15:52:02,010 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 15:52:04,066 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'inputTdRight')
+2018-09-28 15:52:04,103 - login_page.py:[53] - [INFO] - login failed : 输入的用户名或密码错误，请重新输入!
+2018-09-28 15:52:04,137 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'username')
+2018-09-28 15:52:04,176 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rmln]
+2018-09-28 15:52:06,248 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'password')
+2018-09-28 15:52:06,287 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value []
+2018-09-28 15:52:08,308 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 15:52:08,356 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 15:52:10,399 - login_page.py:[70] - [INFO] - login failed ,handleAlert handle alert successed alert info: 请填写用户密码!
+2018-09-28 15:52:10,426 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'username')
+2018-09-28 15:52:10,478 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rmln]
+2018-09-28 15:52:12,509 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'password')
+2018-09-28 15:52:12,565 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value [quert1234]
+2018-09-28 15:52:14,596 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 15:52:14,775 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 15:52:16,817 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'inputTdRight')
+2018-09-28 15:52:16,843 - login_page.py:[53] - [INFO] - login failed : 输入的用户名或密码错误，请重新输入!
+2018-09-28 15:52:16,863 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'username')
+2018-09-28 15:52:16,893 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value []
+2018-09-28 15:52:18,938 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'password')
+2018-09-28 15:52:18,984 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value []
+2018-09-28 15:52:21,037 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76320> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 15:52:21,072 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 15:52:23,110 - login_page.py:[70] - [INFO] - login failed ,handleAlert handle alert successed alert info: 请填写用户名!
+2018-09-28 15:52:23,110 - LoginTc.py:[107] - [INFO] - test_login->run completed! please check the test report
+2018-09-28 15:52:23,706 - myunit.py:[44] - [INFO] - ************************test case run completed************************
+2018-09-28 15:52:23,984 - base_page.py:[57] - [INFO] - _open is accessing address http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp at line[46]
+2018-09-28 15:52:23,984 - base_page.py:[66] - [INFO] - http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp loading successed!
+2018-09-28 15:52:23,984 - myunit.py:[36] - [INFO] - ************************starting run test cases************************
+2018-09-28 15:52:24,021 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F767F0> had already find the element ('id', 'username')
+2018-09-28 15:52:24,071 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rmln]
+2018-09-28 15:52:24,108 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F767F0> had already find the element ('id', 'password')
+2018-09-28 15:52:24,167 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value [quert1234]
+2018-09-28 15:52:24,196 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F767F0> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 15:52:24,393 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 15:52:24,440 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F767F0> had already find the element ('id', 'inputTdRight')
+2018-09-28 15:52:24,472 - login_page.py:[53] - [INFO] - login failed : 输入的用户名或密码错误，请重新输入!
+2018-09-28 15:52:24,472 - LoginTc.py:[48] - [INFO] - test_login_failed_incorrect_password->run completed! please check the test report
+2018-09-28 15:52:25,121 - myunit.py:[44] - [INFO] - ************************test case run completed************************
+2018-09-28 15:52:25,363 - base_page.py:[57] - [INFO] - _open is accessing address http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp at line[46]
+2018-09-28 15:52:25,363 - base_page.py:[66] - [INFO] - http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp loading successed!
+2018-09-28 15:52:25,363 - myunit.py:[36] - [INFO] - ************************starting run test cases************************
+2018-09-28 15:52:25,401 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F766D8> had already find the element ('id', 'username')
+2018-09-28 15:52:25,438 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rmlv]
+2018-09-28 15:52:25,462 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F766D8> had already find the element ('id', 'password')
+2018-09-28 15:52:25,504 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value [qwert1234!@#]
+2018-09-28 15:52:25,526 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F766D8> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 15:52:25,685 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 15:52:25,735 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F766D8> had already find the element ('id', 'inputTdRight')
+2018-09-28 15:52:25,760 - login_page.py:[53] - [INFO] - login failed : 输入的用户名或密码错误，请重新输入!
+2018-09-28 15:52:25,760 - LoginTc.py:[39] - [INFO] - test_login_failed_incorrect_username->run completed! please check the test report
+2018-09-28 15:52:26,398 - myunit.py:[44] - [INFO] - ************************test case run completed************************
+2018-09-28 15:52:26,628 - base_page.py:[57] - [INFO] - _open is accessing address http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp at line[46]
+2018-09-28 15:52:26,629 - base_page.py:[66] - [INFO] - http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp loading successed!
+2018-09-28 15:52:26,629 - myunit.py:[36] - [INFO] - ************************starting run test cases************************
+2018-09-28 15:52:26,693 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76358> had already find the element ('id', 'username')
+2018-09-28 15:52:26,732 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rmln]
+2018-09-28 15:52:26,755 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76358> had already find the element ('id', 'password')
+2018-09-28 15:52:26,789 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value []
+2018-09-28 15:52:26,815 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76358> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 15:52:26,845 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 15:52:26,880 - login_page.py:[70] - [INFO] - login failed ,handleAlert handle alert successed alert info: 请填写用户密码!
+2018-09-28 15:52:26,881 - LoginTc.py:[64] - [INFO] - test_login_failed_password_blank->run completed! please check the test report
+2018-09-28 15:52:27,353 - myunit.py:[44] - [INFO] - ************************test case run completed************************
+2018-09-28 15:52:27,597 - base_page.py:[57] - [INFO] - _open is accessing address http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp at line[46]
+2018-09-28 15:52:27,597 - base_page.py:[66] - [INFO] - http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp loading successed!
+2018-09-28 15:52:27,598 - myunit.py:[36] - [INFO] - ************************starting run test cases************************
+2018-09-28 15:52:27,627 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76630> had already find the element ('id', 'username')
+2018-09-28 15:52:27,668 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rml]
+2018-09-28 15:52:27,692 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76630> had already find the element ('id', 'password')
+2018-09-28 15:52:27,730 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value [rmln]
+2018-09-28 15:52:27,754 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76630> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 15:52:27,931 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 15:52:27,968 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76630> had already find the element ('id', 'inputTdRight')
+2018-09-28 15:52:27,995 - login_page.py:[53] - [INFO] - login failed : 输入的用户名或密码错误，请重新输入!
+2018-09-28 15:52:27,995 - LoginTc.py:[72] - [INFO] - test_login_failed_unpw_incorrect->run completed! please check the test report
+2018-09-28 15:52:28,469 - myunit.py:[44] - [INFO] - ************************test case run completed************************
+2018-09-28 15:52:28,725 - base_page.py:[57] - [INFO] - _open is accessing address http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp at line[46]
+2018-09-28 15:52:28,726 - base_page.py:[66] - [INFO] - http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp loading successed!
+2018-09-28 15:52:28,726 - myunit.py:[36] - [INFO] - ************************starting run test cases************************
+2018-09-28 15:52:28,774 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76128> had already find the element ('id', 'username')
+2018-09-28 15:52:28,808 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value []
+2018-09-28 15:52:28,834 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76128> had already find the element ('id', 'password')
+2018-09-28 15:52:28,867 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value []
+2018-09-28 15:52:28,897 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76128> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 15:52:28,947 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 15:52:28,979 - login_page.py:[70] - [INFO] - login failed ,handleAlert handle alert successed alert info: 请填写用户名!
+2018-09-28 15:52:28,979 - LoginTc.py:[56] - [INFO] - test_login_failed_username_password_blank->run completed! please check the test report
+2018-09-28 15:52:29,416 - myunit.py:[44] - [INFO] - ************************test case run completed************************
+2018-09-28 15:52:29,662 - base_page.py:[57] - [INFO] - _open is accessing address http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp at line[46]
+2018-09-28 15:52:29,662 - base_page.py:[66] - [INFO] - http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp loading successed!
+2018-09-28 15:52:29,662 - myunit.py:[36] - [INFO] - ************************starting run test cases************************
+2018-09-28 15:52:29,705 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76710> had already find the element ('id', 'username')
+2018-09-28 15:52:29,745 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rmln]
+2018-09-28 15:52:29,766 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76710> had already find the element ('id', 'password')
+2018-09-28 15:52:29,813 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value [qwert1234!@#]
+2018-09-28 15:52:29,836 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000024897F76710> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 15:52:30,274 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 15:52:30,353 - base_page.py:[220] - [INFO] - the file [correct_username_password_pass.png]  save screenshot successed under [D:\Petrochina_Retail_Test_Project\retail\report\image\pass]
+2018-09-28 15:52:30,353 - LoginTc.py:[31] - [INFO] - test_login_success_correct_username_password->run completed! please check the test report
+2018-09-28 15:52:31,281 - myunit.py:[44] - [INFO] - ************************test case run completed************************
+2018-09-28 15:52:31,863 - myunit.py:[50] - [INFO] - quit the browser success!
+2018-09-28 16:00:33,664 - doconfIni.py:[36] - [INFO] - read excel value [D:\Petrochina_Retail_Test_Project] successed! 
+2018-09-28 16:00:34,297 - testreport.py:[36] - [INFO] - successed to generate test report [D:\Petrochina_Retail_Test_Project\retail\report\TestReport\report2018-09-28 16_00_34.html]
+2018-09-28 16:00:35,344 - doexcel.py:[31] - [INFO] - initing class ReadExcel
+2018-09-28 16:00:35,354 - doexcel.py:[31] - [INFO] - initing class ReadExcel
+2018-09-28 16:00:35,364 - doexcel.py:[31] - [INFO] - initing class ReadExcel
+2018-09-28 16:00:35,376 - doexcel.py:[31] - [INFO] - initing class ReadExcel
+2018-09-28 16:00:35,376 - doexcel.py:[46] - [INFO] - reading value [权限管理] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,376 - doexcel.py:[46] - [INFO] - reading value [会员档案] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,376 - doexcel.py:[46] - [INFO] - reading value [积分消费查询] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,376 - doexcel.py:[46] - [INFO] - reading value [功能演示] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,376 - doexcel.py:[46] - [INFO] - reading value [待办工作] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,377 - doexcel.py:[46] - [INFO] - reading value [报表] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,377 - doexcel.py:[46] - [INFO] - reading value [积分规则/活动查询] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,377 - doexcel.py:[46] - [INFO] - reading value [积分规则/活动申请] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,377 - doexcel.py:[46] - [INFO] - reading value [username] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,377 - doexcel.py:[46] - [INFO] - reading value [password] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,377 - doexcel.py:[46] - [INFO] - reading value [loginSubmitButton] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,377 - doexcel.py:[46] - [INFO] - reading value [checkcookie] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,377 - doexcel.py:[46] - [INFO] - reading value [inputTdRight] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,377 - doexcel.py:[46] - [INFO] - reading value [logout] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,377 - doexcel.py:[46] - [INFO] - reading value [rmln] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,377 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,377 - doexcel.py:[46] - [INFO] - reading value [rmlv] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,377 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,378 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,378 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,378 - doexcel.py:[46] - [INFO] - reading value [rml] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,378 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,378 - doexcel.py:[46] - [INFO] - reading value [rmln] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,378 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,378 - doexcel.py:[46] - [INFO] - reading value [rmln] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,378 - doexcel.py:[46] - [INFO] - reading value [quert1234] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,378 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:35,378 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:00:44,638 - driver.py:[27] - [INFO] - fireFoxDriver:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="0b2f1f04-4495-42e4-b54e-7c2415bd5614")>] successed !
+2018-09-28 16:00:48,186 - myunit.py:[26] - [INFO] - opened the browser successed!
+2018-09-28 16:00:48,743 - base_page.py:[57] - [INFO] - _open is accessing address http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp at line[46]
+2018-09-28 16:00:48,743 - base_page.py:[66] - [INFO] - http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp loading successed!
+2018-09-28 16:00:48,743 - myunit.py:[36] - [INFO] - ************************starting run test cases************************
+2018-09-28 16:00:48,792 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'username')
+2018-09-28 16:00:48,836 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rmln]
+2018-09-28 16:00:50,888 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'password')
+2018-09-28 16:00:50,968 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value [qwert1234!@#]
+2018-09-28 16:00:52,998 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 16:00:53,880 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 16:00:55,932 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'logout')
+2018-09-28 16:00:56,153 - login_page.py:[95] - [INFO] - quit
+2018-09-28 16:00:56,192 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'username')
+2018-09-28 16:00:56,236 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rmlv]
+2018-09-28 16:00:58,283 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'password')
+2018-09-28 16:00:58,344 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value [qwert1234!@#]
+2018-09-28 16:01:00,377 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 16:01:00,571 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 16:01:02,625 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'inputTdRight')
+2018-09-28 16:01:02,657 - login_page.py:[53] - [INFO] - login failed : 输入的用户名或密码错误，请重新输入!
+2018-09-28 16:01:02,679 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'username')
+2018-09-28 16:01:02,715 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value []
+2018-09-28 16:01:04,753 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'password')
+2018-09-28 16:01:04,805 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value [qwert1234!@#]
+2018-09-28 16:01:06,867 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 16:01:06,950 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 16:01:08,988 - login_page.py:[70] - [INFO] - login failed ,handleAlert handle alert successed alert info: 请填写用户名!
+2018-09-28 16:01:09,020 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'username')
+2018-09-28 16:01:09,058 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rml]
+2018-09-28 16:01:11,085 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'password')
+2018-09-28 16:01:11,129 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value [qwert1234!@]
+2018-09-28 16:01:13,174 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 16:01:13,343 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 16:01:15,374 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'inputTdRight')
+2018-09-28 16:01:15,397 - login_page.py:[53] - [INFO] - login failed : 输入的用户名或密码错误，请重新输入!
+2018-09-28 16:01:15,421 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'username')
+2018-09-28 16:01:15,464 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rmln]
+2018-09-28 16:01:17,528 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'password')
+2018-09-28 16:01:17,572 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value []
+2018-09-28 16:01:19,627 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 16:01:19,677 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 16:01:21,725 - login_page.py:[70] - [INFO] - login failed ,handleAlert handle alert successed alert info: 请填写用户密码!
+2018-09-28 16:01:21,757 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'username')
+2018-09-28 16:01:21,800 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rmln]
+2018-09-28 16:01:23,852 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'password')
+2018-09-28 16:01:23,897 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value [quert1234]
+2018-09-28 16:01:25,948 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 16:01:26,137 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 16:01:28,164 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'inputTdRight')
+2018-09-28 16:01:28,185 - login_page.py:[53] - [INFO] - login failed : 输入的用户名或密码错误，请重新输入!
+2018-09-28 16:01:28,206 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'username')
+2018-09-28 16:01:28,237 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value []
+2018-09-28 16:01:30,269 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'password')
+2018-09-28 16:01:30,301 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value []
+2018-09-28 16:01:32,348 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752E8> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 16:01:32,384 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 16:01:34,417 - login_page.py:[70] - [INFO] - login failed ,handleAlert handle alert successed alert info: 请填写用户名!
+2018-09-28 16:01:34,417 - LoginTc.py:[107] - [INFO] - test_login->run completed! please check the test report
+2018-09-28 16:01:34,891 - myunit.py:[44] - [INFO] - ************************test case run completed************************
+2018-09-28 16:01:35,097 - base_page.py:[57] - [INFO] - _open is accessing address http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp at line[46]
+2018-09-28 16:01:35,097 - base_page.py:[66] - [INFO] - http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp loading successed!
+2018-09-28 16:01:35,097 - myunit.py:[36] - [INFO] - ************************starting run test cases************************
+2018-09-28 16:01:35,129 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A6875240> had already find the element ('id', 'username')
+2018-09-28 16:01:35,169 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rmln]
+2018-09-28 16:01:35,192 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A6875240> had already find the element ('id', 'password')
+2018-09-28 16:01:35,232 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value [quert1234]
+2018-09-28 16:01:35,258 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A6875240> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 16:01:35,447 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 16:01:35,491 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A6875240> had already find the element ('id', 'inputTdRight')
+2018-09-28 16:01:35,516 - login_page.py:[53] - [INFO] - login failed : 输入的用户名或密码错误，请重新输入!
+2018-09-28 16:01:35,516 - LoginTc.py:[48] - [INFO] - test_login_failed_incorrect_password->run completed! please check the test report
+2018-09-28 16:01:36,039 - myunit.py:[44] - [INFO] - ************************test case run completed************************
+2018-09-28 16:01:36,275 - base_page.py:[57] - [INFO] - _open is accessing address http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp at line[46]
+2018-09-28 16:01:36,275 - base_page.py:[66] - [INFO] - http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp loading successed!
+2018-09-28 16:01:36,275 - myunit.py:[36] - [INFO] - ************************starting run test cases************************
+2018-09-28 16:01:36,305 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68756D8> had already find the element ('id', 'username')
+2018-09-28 16:01:36,344 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rmlv]
+2018-09-28 16:01:36,366 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68756D8> had already find the element ('id', 'password')
+2018-09-28 16:01:36,405 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value [qwert1234!@#]
+2018-09-28 16:01:36,424 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68756D8> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 16:01:36,579 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 16:01:36,612 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68756D8> had already find the element ('id', 'inputTdRight')
+2018-09-28 16:01:36,642 - login_page.py:[53] - [INFO] - login failed : 输入的用户名或密码错误，请重新输入!
+2018-09-28 16:01:36,642 - LoginTc.py:[39] - [INFO] - test_login_failed_incorrect_username->run completed! please check the test report
+2018-09-28 16:01:37,155 - myunit.py:[44] - [INFO] - ************************test case run completed************************
+2018-09-28 16:01:37,362 - base_page.py:[57] - [INFO] - _open is accessing address http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp at line[46]
+2018-09-28 16:01:37,363 - base_page.py:[66] - [INFO] - http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp loading successed!
+2018-09-28 16:01:37,363 - myunit.py:[36] - [INFO] - ************************starting run test cases************************
+2018-09-28 16:01:37,392 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A6875048> had already find the element ('id', 'username')
+2018-09-28 16:01:37,430 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rmln]
+2018-09-28 16:01:37,452 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A6875048> had already find the element ('id', 'password')
+2018-09-28 16:01:37,481 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value []
+2018-09-28 16:01:37,499 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A6875048> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 16:01:37,525 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 16:01:37,554 - login_page.py:[70] - [INFO] - login failed ,handleAlert handle alert successed alert info: 请填写用户密码!
+2018-09-28 16:01:37,554 - LoginTc.py:[64] - [INFO] - test_login_failed_password_blank->run completed! please check the test report
+2018-09-28 16:01:38,154 - myunit.py:[44] - [INFO] - ************************test case run completed************************
+2018-09-28 16:01:38,374 - base_page.py:[57] - [INFO] - _open is accessing address http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp at line[46]
+2018-09-28 16:01:38,374 - base_page.py:[66] - [INFO] - http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp loading successed!
+2018-09-28 16:01:38,374 - myunit.py:[36] - [INFO] - ************************starting run test cases************************
+2018-09-28 16:01:38,405 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A6875438> had already find the element ('id', 'username')
+2018-09-28 16:01:38,443 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rml]
+2018-09-28 16:01:38,466 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A6875438> had already find the element ('id', 'password')
+2018-09-28 16:01:38,498 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value [rmln]
+2018-09-28 16:01:38,523 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A6875438> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 16:01:38,694 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 16:01:38,732 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A6875438> had already find the element ('id', 'inputTdRight')
+2018-09-28 16:01:38,753 - login_page.py:[53] - [INFO] - login failed : 输入的用户名或密码错误，请重新输入!
+2018-09-28 16:01:38,753 - LoginTc.py:[72] - [INFO] - test_login_failed_unpw_incorrect->run completed! please check the test report
+2018-09-28 16:01:39,320 - myunit.py:[44] - [INFO] - ************************test case run completed************************
+2018-09-28 16:01:39,561 - base_page.py:[57] - [INFO] - _open is accessing address http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp at line[46]
+2018-09-28 16:01:39,561 - base_page.py:[66] - [INFO] - http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp loading successed!
+2018-09-28 16:01:39,561 - myunit.py:[36] - [INFO] - ************************starting run test cases************************
+2018-09-28 16:01:39,589 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752B0> had already find the element ('id', 'username')
+2018-09-28 16:01:39,621 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value []
+2018-09-28 16:01:39,645 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752B0> had already find the element ('id', 'password')
+2018-09-28 16:01:39,678 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value []
+2018-09-28 16:01:39,695 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68752B0> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 16:01:39,721 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 16:01:39,746 - login_page.py:[70] - [INFO] - login failed ,handleAlert handle alert successed alert info: 请填写用户名!
+2018-09-28 16:01:39,746 - LoginTc.py:[56] - [INFO] - test_login_failed_username_password_blank->run completed! please check the test report
+2018-09-28 16:01:40,189 - myunit.py:[44] - [INFO] - ************************test case run completed************************
+2018-09-28 16:01:40,451 - base_page.py:[57] - [INFO] - _open is accessing address http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp at line[46]
+2018-09-28 16:01:40,451 - base_page.py:[66] - [INFO] - http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp loading successed!
+2018-09-28 16:01:40,451 - myunit.py:[36] - [INFO] - ************************starting run test cases************************
+2018-09-28 16:01:40,502 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68757B8> had already find the element ('id', 'username')
+2018-09-28 16:01:40,544 - base_page.py:[119] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rmln]
+2018-09-28 16:01:40,566 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68757B8> had already find the element ('id', 'password')
+2018-09-28 16:01:40,608 - base_page.py:[119] - [INFO] - inputValue:[('id', 'password')] is receiveing value [qwert1234!@#]
+2018-09-28 16:01:40,630 - base_page.py:[84] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x000001E3A68757B8> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 16:01:41,160 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 16:01:41,246 - base_page.py:[220] - [INFO] - the file [correct_username_password_pass.png]  save screenshot successed under [D:\Petrochina_Retail_Test_Project\retail\report\image\pass]
+2018-09-28 16:01:41,247 - LoginTc.py:[31] - [INFO] - test_login_success_correct_username_password->run completed! please check the test report
+2018-09-28 16:01:42,161 - myunit.py:[44] - [INFO] - ************************test case run completed************************
+2018-09-28 16:01:42,724 - myunit.py:[50] - [INFO] - quit the browser success!
+2018-09-28 16:43:17,116 - doconfIni.py:[36] - [INFO] - read excel value [D:\Petrochina_Retail_Test_Project] successed! 
+2018-09-28 16:43:17,261 - doexcel.py:[31] - [INFO] - initing class ReadExcel
+2018-09-28 16:43:17,272 - doexcel.py:[31] - [INFO] - initing class ReadExcel
+2018-09-28 16:43:17,282 - doexcel.py:[31] - [INFO] - initing class ReadExcel
+2018-09-28 16:43:17,293 - doexcel.py:[31] - [INFO] - initing class ReadExcel
+2018-09-28 16:43:17,293 - doexcel.py:[46] - [INFO] - reading value [权限管理] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,293 - doexcel.py:[46] - [INFO] - reading value [会员档案] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,293 - doexcel.py:[46] - [INFO] - reading value [积分消费查询] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,293 - doexcel.py:[46] - [INFO] - reading value [功能演示] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,293 - doexcel.py:[46] - [INFO] - reading value [待办工作] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,293 - doexcel.py:[46] - [INFO] - reading value [报表] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,293 - doexcel.py:[46] - [INFO] - reading value [积分规则/活动查询] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,294 - doexcel.py:[46] - [INFO] - reading value [积分规则/活动申请] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,294 - doexcel.py:[46] - [INFO] - reading value [username] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,294 - doexcel.py:[46] - [INFO] - reading value [password] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,294 - doexcel.py:[46] - [INFO] - reading value [loginSubmitButton] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,294 - doexcel.py:[46] - [INFO] - reading value [checkcookie] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,294 - doexcel.py:[46] - [INFO] - reading value [inputTdRight] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,294 - doexcel.py:[46] - [INFO] - reading value [logout] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,294 - doexcel.py:[46] - [INFO] - reading value [rmln] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,294 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,294 - doexcel.py:[46] - [INFO] - reading value [rmlv] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,294 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,294 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,295 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,295 - doexcel.py:[46] - [INFO] - reading value [rml] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,295 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,295 - doexcel.py:[46] - [INFO] - reading value [rmln] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,295 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,295 - doexcel.py:[46] - [INFO] - reading value [rmln] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,295 - doexcel.py:[46] - [INFO] - reading value [quert1234] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,295 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,295 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,296 - doexcel.py:[46] - [INFO] - reading value [a] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,296 - doexcel.py:[46] - [INFO] - reading value [a] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,296 - doexcel.py:[46] - [INFO] - reading value [a] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,296 - doexcel.py:[46] - [INFO] - reading value [a] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,297 - doexcel.py:[46] - [INFO] - reading value [qwert] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,297 - doexcel.py:[46] - [INFO] - reading value [qwert] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,297 - doexcel.py:[46] - [INFO] - reading value [a] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,297 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#$] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,297 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#$] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,297 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#$] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,297 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#$!!] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,297 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#$] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,297 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,297 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,297 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,297 - doexcel.py:[46] - [INFO] - reading value [个人设置] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,297 - doexcel.py:[46] - [INFO] - reading value [密码修改] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,297 - doexcel.py:[46] - [INFO] - reading value [_pagesa00000041old_pwd_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,297 - doexcel.py:[46] - [INFO] - reading value [_pagesa00000041new_pwd1_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,297 - doexcel.py:[46] - [INFO] - reading value [_pagesa00000041new_pwd2_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,297 - doexcel.py:[46] - [INFO] - reading value [/html/body/div[5]/div[2]/div[3]/div[1]/div/table/tbody/tr/td/table/tbody/tr/td[2]] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,297 - doexcel.py:[46] - [INFO] - reading value [.u-xdlg-bc] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,297 - doexcel.py:[46] - [INFO] - reading value [_pagesa00000041unieap_form_Text_4] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,298 - doexcel.py:[46] - [INFO] - reading value [//*[@id='_pagesa00000041unieap_form_Button_0_unieap_input']] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,299 - doexcel.py:[46] - [INFO] - reading value [#] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,299 - doexcel.py:[46] - [INFO] - reading value [123.0] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,299 - doexcel.py:[46] - [INFO] - reading value [汉字] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,299 - doexcel.py:[46] - [INFO] - reading value [会员档案查询] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,299 - doexcel.py:[46] - [INFO] - reading value [//div[@class='u-titlepane-title']] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,299 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000043formMembeType_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,300 - doexcel.py:[46] - [INFO] - reading value [//*[@class="u-combobox-items-container"]/table/tbody/tr[1]/td/span] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,300 - doexcel.py:[46] - [INFO] - reading value [//*[@class="u-combobox-items-container"]/table/tbody/tr[2]/td/span] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,300 - doexcel.py:[46] - [INFO] - reading value [//*[@class="u-combobox-items-container"]/table/tbody/tr[3]/td/span] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,300 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000043fromMemberLevel_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,300 - doexcel.py:[46] - [INFO] - reading value [//*[@class="u-combobox-items-container"]/table/tbody/tr[1]/td/span] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,300 - doexcel.py:[46] - [INFO] - reading value [//*[@class="u-combobox-items-container"]/table/tbody/tr[2]/td/span] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,300 - doexcel.py:[46] - [INFO] - reading value [//*[@class="u-combobox-items-container"]/table/tbody/tr[3]/td/span] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,300 - doexcel.py:[46] - [INFO] - reading value [//*[@class="u-combobox-items-container"]/table/tbody/tr[4]/td/span] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,300 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000043formMemberNo_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,300 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000043formMemberName_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,300 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000043formPhoneNumber_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,300 - doexcel.py:[46] - [INFO] - reading value [//*[@class='messageBg']/tbody/tr/td/table/tbody/tr/td[2]] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,300 - doexcel.py:[46] - [INFO] - reading value [//*[@class='u-xdlg-mmb']/a] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,300 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000043unieap_form_Button_0_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,300 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000043unieap_form_Button_1_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,310 - doexcel.py:[46] - [INFO] - reading value [43334.5743634259] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,310 - doexcel.py:[46] - [INFO] - reading value [43336.5743634259] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,310 - doexcel.py:[46] - [INFO] - reading value [1.0] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,310 - doexcel.py:[46] - [INFO] - reading value [1.0] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,310 - doexcel.py:[46] - [INFO] - reading value [M000] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,310 - doexcel.py:[46] - [INFO] - reading value [#] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,310 - doexcel.py:[46] - [INFO] - reading value [1.0] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,310 - doexcel.py:[46] - [INFO] - reading value [M000] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,310 - doexcel.py:[46] - [INFO] - reading value [1.0] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,310 - doexcel.py:[46] - [INFO] - reading value [#] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,310 - doexcel.py:[46] - [INFO] - reading value [M000] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,311 - doexcel.py:[46] - [INFO] - reading value [1.0] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,311 - doexcel.py:[46] - [INFO] - reading value [M000] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,311 - doexcel.py:[46] - [INFO] - reading value [#] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,311 - doexcel.py:[46] - [INFO] - reading value [积分查询] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,311 - doexcel.py:[46] - [INFO] - reading value [交易记录查询] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,311 - doexcel.py:[46] - [INFO] - reading value [//div[@class='u-titlepane-title']] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,311 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000080startPayTime_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,311 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000080endPayTime_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,311 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000080memberNo_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,311 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000080pointsMonth_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,311 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000080provinceCode_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,311 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000080addSource] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,311 - doexcel.py:[46] - [INFO] - reading value [//*[@class="u-xdlg"]] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,311 - doexcel.py:[46] - [INFO] - reading value [//*[@class="u-xdlg-mmb"]/a/button] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,311 - doexcel.py:[46] - [INFO] - reading value [查询] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,311 - doexcel.py:[46] - [INFO] - reading value [重置] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,311 - doexcel.py:[46] - [INFO] - reading value [//*[@class='messageBg']/tbody/tr/td/table/tbody/tr/td[2]] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,312 - doexcel.py:[46] - [INFO] - reading value [.u-xdlg-bc] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,313 - doexcel.py:[46] - [INFO] - reading value [//*[@class = 'u-form-textbox-icon u-form-textbox-icon-normal u-a-common icon-choose']] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,313 - doexcel.py:[46] - [INFO] - reading value [//form[@id='dlg_0filterForm']/table/tbody/tr/td[2]/div/div[3]/div[3]/input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,313 - doexcel.py:[46] - [INFO] - reading value [//*[@class="u-xdlg-mt"]] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,313 - doexcel.py:[46] - [INFO] - reading value [//div[@class='u-xgrid-cell']] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,313 - doexcel.py:[46] - [INFO] - reading value [//form[@id='dlg_0filterForm']/table/tbody/tr/td[3]/div/a/button] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,313 - doexcel.py:[46] - [INFO] - reading value [//form[@id='dlg_0filterForm']/table/tbody/tr/td[3]/div/a[2]/button] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,314 - doexcel.py:[46] - [INFO] - reading value [//li[@class='active']/ul/li/a/span] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,314 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000146busiTypeCode_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,314 - doexcel.py:[46] - [INFO] - reading value [//*[@class='u-combobox-items-container']/table/tbody/tr] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,314 - doexcel.py:[46] - [INFO] - reading value [添加规则] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,314 - doexcel.py:[46] - [INFO] - reading value [删除规则] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,314 - doexcel.py:[46] - [INFO] - reading value [保存申请] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,314 - doexcel.py:[46] - [INFO] - reading value [提交申请] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,314 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000146unieap_form_TextBox_0_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,314 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000146ruleGroupName_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,314 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000146groupMemo_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,315 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000146groupBeginDate_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,315 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000146groupEndDate_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,315 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000146groupBeginTime_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,315 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000146groupEndTime_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,315 - doexcel.py:[46] - [INFO] - reading value [//*[@class='messageBg']/tbody/tr/td/table/tbody/tr/td[2]] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,315 - doexcel.py:[46] - [INFO] - reading value [//*[@class='u-xdlg-mt']] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,316 - doexcel.py:[46] - [INFO] - reading value [dlg_0unieap_form_TextBox_1_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,316 - doexcel.py:[46] - [INFO] - reading value [dlg_0beginDate_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,316 - doexcel.py:[46] - [INFO] - reading value [dlg_0endDate_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,316 - doexcel.py:[46] - [INFO] - reading value [dlg_0beginTime_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,316 - doexcel.py:[46] - [INFO] - reading value [dlg_0endTime_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,316 - doexcel.py:[46] - [INFO] - reading value [dlg_0unieap_form_TextBox_2_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,316 - doexcel.py:[46] - [INFO] - reading value [//*[@class='table_container']/tbody/tr[2]/td[2]/div[3]/div[3]/textarea] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,316 - doexcel.py:[46] - [INFO] - reading value [dlg_0minAmt_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,316 - doexcel.py:[46] - [INFO] - reading value [dlg_0maxAmt_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,316 - doexcel.py:[46] - [INFO] - reading value [dlg_0payNum_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,317 - doexcel.py:[46] - [INFO] - reading value [dlg_0sumAmt_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,317 - doexcel.py:[46] - [INFO] - reading value [//*[@class='messageBg']/tbody/tr/td/table/tbody/tr/td[2]] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,317 - doexcel.py:[46] - [INFO] - reading value [保存] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,317 - doexcel.py:[46] - [INFO] - reading value [dlg_0ruleDeptLevel_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,317 - doexcel.py:[46] - [INFO] - reading value [加油站] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,317 - doexcel.py:[46] - [INFO] - reading value [dlg_0unieap_form_ComboBox_1_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,317 - doexcel.py:[46] - [INFO] - reading value [dlg_0unieap_form_ComboBox_2_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,317 - doexcel.py:[46] - [INFO] - reading value [dlg_0unieap_form_ComboBox_3_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,317 - doexcel.py:[46] - [INFO] - reading value [dlg_0unieap_form_ComboBox_4_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:17,317 - doexcel.py:[46] - [INFO] - reading value [dlg_0pointsAddType_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:43:26,004 - driver.py:[27] - [INFO] - fireFoxDriver:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="fb13e3dd-9cc4-41d6-85ba-338d8b3b165f")>] successed !
+2018-09-28 16:43:29,523 - myunit.py:[26] - [INFO] - opened the browser successed!
+2018-09-28 16:43:30,078 - base_page.py:[56] - [INFO] - _open is accessing address http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp at line[46]
+2018-09-28 16:43:30,078 - base_page.py:[65] - [INFO] - http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp loading successed!
+2018-09-28 16:43:30,079 - myunit.py:[36] - [INFO] - ************************starting run test cases************************
+2018-09-28 16:43:30,599 - myunit.py:[44] - [INFO] - ************************test case run completed************************
+2018-09-28 16:43:30,953 - myunit.py:[50] - [INFO] - quit the browser success!
+2018-09-28 16:44:29,478 - doconfIni.py:[36] - [INFO] - read excel value [D:\Petrochina_Retail_Test_Project] successed! 
+2018-09-28 16:44:29,615 - doexcel.py:[31] - [INFO] - initing class ReadExcel
+2018-09-28 16:44:29,626 - doexcel.py:[31] - [INFO] - initing class ReadExcel
+2018-09-28 16:44:29,637 - doexcel.py:[31] - [INFO] - initing class ReadExcel
+2018-09-28 16:44:29,648 - doexcel.py:[31] - [INFO] - initing class ReadExcel
+2018-09-28 16:44:29,648 - doexcel.py:[46] - [INFO] - reading value [权限管理] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,648 - doexcel.py:[46] - [INFO] - reading value [会员档案] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,648 - doexcel.py:[46] - [INFO] - reading value [积分消费查询] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,648 - doexcel.py:[46] - [INFO] - reading value [功能演示] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,648 - doexcel.py:[46] - [INFO] - reading value [待办工作] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,648 - doexcel.py:[46] - [INFO] - reading value [报表] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,648 - doexcel.py:[46] - [INFO] - reading value [积分规则/活动查询] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,649 - doexcel.py:[46] - [INFO] - reading value [积分规则/活动申请] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,649 - doexcel.py:[46] - [INFO] - reading value [username] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,649 - doexcel.py:[46] - [INFO] - reading value [password] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,649 - doexcel.py:[46] - [INFO] - reading value [loginSubmitButton] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,649 - doexcel.py:[46] - [INFO] - reading value [checkcookie] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,649 - doexcel.py:[46] - [INFO] - reading value [inputTdRight] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,649 - doexcel.py:[46] - [INFO] - reading value [logout] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,649 - doexcel.py:[46] - [INFO] - reading value [rmln] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,649 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,649 - doexcel.py:[46] - [INFO] - reading value [rmlv] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,649 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,649 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,649 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,650 - doexcel.py:[46] - [INFO] - reading value [rml] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,650 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,650 - doexcel.py:[46] - [INFO] - reading value [rmln] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,650 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,650 - doexcel.py:[46] - [INFO] - reading value [rmln] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,650 - doexcel.py:[46] - [INFO] - reading value [quert1234] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,650 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,650 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,652 - doexcel.py:[46] - [INFO] - reading value [a] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,652 - doexcel.py:[46] - [INFO] - reading value [a] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,652 - doexcel.py:[46] - [INFO] - reading value [a] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,652 - doexcel.py:[46] - [INFO] - reading value [a] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,652 - doexcel.py:[46] - [INFO] - reading value [qwert] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,652 - doexcel.py:[46] - [INFO] - reading value [qwert] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,652 - doexcel.py:[46] - [INFO] - reading value [a] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,652 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#$] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,652 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#$] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,652 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#$] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,652 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#$!!] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,653 - doexcel.py:[46] - [INFO] - reading value [qwert1234!@#$] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,653 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,653 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,653 - doexcel.py:[46] - [INFO] - reading value [] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,653 - doexcel.py:[46] - [INFO] - reading value [个人设置] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,653 - doexcel.py:[46] - [INFO] - reading value [密码修改] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,653 - doexcel.py:[46] - [INFO] - reading value [_pagesa00000041old_pwd_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,653 - doexcel.py:[46] - [INFO] - reading value [_pagesa00000041new_pwd1_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,653 - doexcel.py:[46] - [INFO] - reading value [_pagesa00000041new_pwd2_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,653 - doexcel.py:[46] - [INFO] - reading value [/html/body/div[5]/div[2]/div[3]/div[1]/div/table/tbody/tr/td/table/tbody/tr/td[2]] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,653 - doexcel.py:[46] - [INFO] - reading value [.u-xdlg-bc] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,653 - doexcel.py:[46] - [INFO] - reading value [_pagesa00000041unieap_form_Text_4] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,653 - doexcel.py:[46] - [INFO] - reading value [//*[@id='_pagesa00000041unieap_form_Button_0_unieap_input']] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,655 - doexcel.py:[46] - [INFO] - reading value [#] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,655 - doexcel.py:[46] - [INFO] - reading value [123.0] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,655 - doexcel.py:[46] - [INFO] - reading value [汉字] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,655 - doexcel.py:[46] - [INFO] - reading value [会员档案查询] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,655 - doexcel.py:[46] - [INFO] - reading value [//div[@class='u-titlepane-title']] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,655 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000043formMembeType_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,655 - doexcel.py:[46] - [INFO] - reading value [//*[@class="u-combobox-items-container"]/table/tbody/tr[1]/td/span] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,656 - doexcel.py:[46] - [INFO] - reading value [//*[@class="u-combobox-items-container"]/table/tbody/tr[2]/td/span] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,656 - doexcel.py:[46] - [INFO] - reading value [//*[@class="u-combobox-items-container"]/table/tbody/tr[3]/td/span] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,656 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000043fromMemberLevel_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,656 - doexcel.py:[46] - [INFO] - reading value [//*[@class="u-combobox-items-container"]/table/tbody/tr[1]/td/span] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,656 - doexcel.py:[46] - [INFO] - reading value [//*[@class="u-combobox-items-container"]/table/tbody/tr[2]/td/span] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,656 - doexcel.py:[46] - [INFO] - reading value [//*[@class="u-combobox-items-container"]/table/tbody/tr[3]/td/span] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,656 - doexcel.py:[46] - [INFO] - reading value [//*[@class="u-combobox-items-container"]/table/tbody/tr[4]/td/span] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,656 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000043formMemberNo_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,656 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000043formMemberName_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,656 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000043formPhoneNumber_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,656 - doexcel.py:[46] - [INFO] - reading value [//*[@class='messageBg']/tbody/tr/td/table/tbody/tr/td[2]] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,656 - doexcel.py:[46] - [INFO] - reading value [//*[@class='u-xdlg-mmb']/a] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,656 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000043unieap_form_Button_0_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,657 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000043unieap_form_Button_1_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,658 - doexcel.py:[46] - [INFO] - reading value [43334.5743634259] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,658 - doexcel.py:[46] - [INFO] - reading value [43336.5743634259] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,658 - doexcel.py:[46] - [INFO] - reading value [1.0] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,658 - doexcel.py:[46] - [INFO] - reading value [1.0] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,658 - doexcel.py:[46] - [INFO] - reading value [M000] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,658 - doexcel.py:[46] - [INFO] - reading value [#] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,658 - doexcel.py:[46] - [INFO] - reading value [1.0] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,658 - doexcel.py:[46] - [INFO] - reading value [M000] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,658 - doexcel.py:[46] - [INFO] - reading value [1.0] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,658 - doexcel.py:[46] - [INFO] - reading value [#] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,658 - doexcel.py:[46] - [INFO] - reading value [M000] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,658 - doexcel.py:[46] - [INFO] - reading value [1.0] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,659 - doexcel.py:[46] - [INFO] - reading value [M000] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,659 - doexcel.py:[46] - [INFO] - reading value [#] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,659 - doexcel.py:[46] - [INFO] - reading value [积分查询] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,659 - doexcel.py:[46] - [INFO] - reading value [交易记录查询] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,659 - doexcel.py:[46] - [INFO] - reading value [//div[@class='u-titlepane-title']] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,659 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000080startPayTime_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,659 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000080endPayTime_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,659 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000080memberNo_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,659 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000080pointsMonth_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,659 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000080provinceCode_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,659 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000080addSource] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,659 - doexcel.py:[46] - [INFO] - reading value [//*[@class="u-xdlg"]] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,659 - doexcel.py:[46] - [INFO] - reading value [//*[@class="u-xdlg-mmb"]/a/button] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,659 - doexcel.py:[46] - [INFO] - reading value [查询] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,659 - doexcel.py:[46] - [INFO] - reading value [重置] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,660 - doexcel.py:[46] - [INFO] - reading value [//*[@class='messageBg']/tbody/tr/td/table/tbody/tr/td[2]] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,660 - doexcel.py:[46] - [INFO] - reading value [.u-xdlg-bc] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,661 - doexcel.py:[46] - [INFO] - reading value [//*[@class = 'u-form-textbox-icon u-form-textbox-icon-normal u-a-common icon-choose']] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,661 - doexcel.py:[46] - [INFO] - reading value [//form[@id='dlg_0filterForm']/table/tbody/tr/td[2]/div/div[3]/div[3]/input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,661 - doexcel.py:[46] - [INFO] - reading value [//*[@class="u-xdlg-mt"]] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,661 - doexcel.py:[46] - [INFO] - reading value [//div[@class='u-xgrid-cell']] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,661 - doexcel.py:[46] - [INFO] - reading value [//form[@id='dlg_0filterForm']/table/tbody/tr/td[3]/div/a/button] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,661 - doexcel.py:[46] - [INFO] - reading value [//form[@id='dlg_0filterForm']/table/tbody/tr/td[3]/div/a[2]/button] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,662 - doexcel.py:[46] - [INFO] - reading value [//li[@class='active']/ul/li/a/span] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,662 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000146busiTypeCode_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,662 - doexcel.py:[46] - [INFO] - reading value [//*[@class='u-combobox-items-container']/table/tbody/tr] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,662 - doexcel.py:[46] - [INFO] - reading value [添加规则] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,662 - doexcel.py:[46] - [INFO] - reading value [删除规则] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,662 - doexcel.py:[46] - [INFO] - reading value [保存申请] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,662 - doexcel.py:[46] - [INFO] - reading value [提交申请] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,663 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000146unieap_form_TextBox_0_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,663 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000146ruleGroupName_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,663 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000146groupMemo_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,663 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000146groupBeginDate_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,663 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000146groupEndDate_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,663 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000146groupBeginTime_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,663 - doexcel.py:[46] - [INFO] - reading value [_pagef_0000000146groupEndTime_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,663 - doexcel.py:[46] - [INFO] - reading value [//*[@class='messageBg']/tbody/tr/td/table/tbody/tr/td[2]] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,663 - doexcel.py:[46] - [INFO] - reading value [//*[@class='u-xdlg-mt']] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,664 - doexcel.py:[46] - [INFO] - reading value [dlg_0unieap_form_TextBox_1_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,665 - doexcel.py:[46] - [INFO] - reading value [dlg_0beginDate_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,665 - doexcel.py:[46] - [INFO] - reading value [dlg_0endDate_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,665 - doexcel.py:[46] - [INFO] - reading value [dlg_0beginTime_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,665 - doexcel.py:[46] - [INFO] - reading value [dlg_0endTime_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,665 - doexcel.py:[46] - [INFO] - reading value [dlg_0unieap_form_TextBox_2_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,665 - doexcel.py:[46] - [INFO] - reading value [//*[@class='table_container']/tbody/tr[2]/td[2]/div[3]/div[3]/textarea] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,665 - doexcel.py:[46] - [INFO] - reading value [dlg_0minAmt_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,665 - doexcel.py:[46] - [INFO] - reading value [dlg_0maxAmt_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,665 - doexcel.py:[46] - [INFO] - reading value [dlg_0payNum_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,665 - doexcel.py:[46] - [INFO] - reading value [dlg_0sumAmt_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,665 - doexcel.py:[46] - [INFO] - reading value [//*[@class='messageBg']/tbody/tr/td/table/tbody/tr/td[2]] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,665 - doexcel.py:[46] - [INFO] - reading value [保存] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,665 - doexcel.py:[46] - [INFO] - reading value [dlg_0ruleDeptLevel_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,665 - doexcel.py:[46] - [INFO] - reading value [加油站] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,665 - doexcel.py:[46] - [INFO] - reading value [dlg_0unieap_form_ComboBox_1_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,665 - doexcel.py:[46] - [INFO] - reading value [dlg_0unieap_form_ComboBox_2_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,665 - doexcel.py:[46] - [INFO] - reading value [dlg_0unieap_form_ComboBox_3_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,666 - doexcel.py:[46] - [INFO] - reading value [dlg_0unieap_form_ComboBox_4_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:29,666 - doexcel.py:[46] - [INFO] - reading value [dlg_0pointsAddType_unieap_input] from excel file [D:\Petrochina_Retail_Test_Project\retail\data\TestData\elementDate.xlsx] completed
+2018-09-28 16:44:38,726 - driver.py:[27] - [INFO] - fireFoxDriver:found the Firefox driver [<selenium.webdriver.firefox.webdriver.WebDriver (session="ee8e0153-5282-4a78-97de-1922d5c41ad3")>] successed !
+2018-09-28 16:44:42,241 - myunit.py:[26] - [INFO] - opened the browser successed!
+2018-09-28 16:44:42,814 - base_page.py:[56] - [INFO] - _open is accessing address http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp at line[46]
+2018-09-28 16:44:42,814 - base_page.py:[65] - [INFO] - http://11.11.164.134:9081/rmms/modules/ep.rmms.portal/login/login.jsp loading successed!
+2018-09-28 16:44:42,815 - myunit.py:[36] - [INFO] - ************************starting run test cases************************
+2018-09-28 16:44:42,857 - base_page.py:[83] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000018B09DD4A90> had already find the element ('id', 'username')
+2018-09-28 16:44:42,918 - base_page.py:[118] - [INFO] - inputValue:[('id', 'username')] is receiveing value [rmln]
+2018-09-28 16:44:42,943 - base_page.py:[83] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000018B09DD4A90> had already find the element ('id', 'password')
+2018-09-28 16:44:43,000 - base_page.py:[118] - [INFO] - inputValue:[('id', 'password')] is receiveing value [qwert1234!@#]
+2018-09-28 16:44:43,025 - base_page.py:[83] - [INFO] - The page of <retail.test_case.page_obj.login_page.LoginPage object at 0x0000018B09DD4A90> had already find the element ('id', 'loginSubmitButton')
+2018-09-28 16:44:43,899 - login_page.py:[45] - [INFO] - clickLoginBtn ,logining....!
+2018-09-28 16:44:44,009 - base_page.py:[219] - [INFO] - the file [correct_username_password_pass.png]  save screenshot successed under [D:\Petrochina_Retail_Test_Project\retail\report\image\pass]
+2018-09-28 16:44:44,009 - LoginTc.py:[31] - [INFO] - test_login_success_correct_username_password->run completed! please check the test report
+2018-09-28 16:44:44,993 - myunit.py:[44] - [INFO] - ************************test case run completed************************
+2018-09-28 16:44:45,536 - myunit.py:[50] - [INFO] - quit the browser success!
